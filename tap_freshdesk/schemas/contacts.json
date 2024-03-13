@@ -112,6 +112,60 @@
           "null",
           "integer"
         ]
-    }
+      },
+      "preferred_source": {
+        "type":  [
+          "null",
+          "string"
+        ]
+      },
+      "unique_external_id": {
+        "type":  [
+          "null",
+          "integer"
+        ]
+      },
+      "first_name": {
+        "type":  [
+          "null",
+          "string"
+        ]
+      },
+      "last_name": {
+        "type":  [
+          "null",
+          "string"
+        ]
+      },
+      "visitor_id": {
+        "type":  [
+          "null",
+          "integer"
+        ]
+      },
+      "org_contact_id": {
+        "type":  [
+          "null",
+          "integer"
+        ]
+      },
+      "other_phone_numbers": {
+        "type":  [
+          "null",
+          "array"
+        ]
+      },
+      "other_companies": {
+        "type":  [
+          "null",
+          "array"
+        ]
+      },
+      "csat_rating": {
+        "type":  [
+          "null",
+          "number"
+        ]
+      }
   }
 }

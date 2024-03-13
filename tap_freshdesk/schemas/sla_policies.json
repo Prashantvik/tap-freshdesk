@@ -59,6 +59,12 @@
                 "string"
             ], 
             "format": "date-time"
+        },
+        "escalation":{
+            "type": [
+                "null", 
+                "object"
+            ]
         }
     }
 }
