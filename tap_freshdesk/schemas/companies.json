@@ -54,7 +54,8 @@
         "type": ["null", "string"]
       },    
       "renewal_date": {
-        "type": ["null", "date"]
-      }
+        "type": ["null", "string"],
+        "format": "date-time"
+    }    
   }
 }
