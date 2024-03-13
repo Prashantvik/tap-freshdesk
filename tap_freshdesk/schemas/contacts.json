@@ -140,7 +140,7 @@
       "visitor_id": {
         "type":  [
           "null",
-          "integer"
+          "string"
         ]
       },
       "org_contact_id": {
