@@ -29,6 +29,12 @@
       "updated_at": {
         "type": ["null", "string"],
         "format": "date-time"
+      },
+      "auto_ticket_assign": {
+        "type": ["null", "number"]
+      },
+      "agent_availability_status": {
+        "type": ["null", "string"]
       }
     }
   }

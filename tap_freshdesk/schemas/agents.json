@@ -47,8 +47,14 @@
       "type": {
         "type": ["null", "string"]
       },
+      "deactivated" : {
+        "type": ["null", "string"]
+      },
       "contact": {
         "type": ["null", "object"],
+        "avatar" : {
+          "type": ["null", "object"]
+        },
         "properties": {
           "active": {
             "type": ["null", "boolean"]
@@ -87,6 +93,9 @@
             "format": "date-time"
           }
         }
+      },
+      "focus_mode": {
+        "type": ["null", "boolean"]
       }
     }
   }

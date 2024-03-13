@@ -52,6 +52,9 @@
       },    
       "renewal_date": {
         "type": ["null", "date"]
+      },
+      "org_company_id": {
+        "type": ["null", "integer"]
       }
   }
 }

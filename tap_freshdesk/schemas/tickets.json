@@ -395,6 +395,43 @@
             ]
           }
         }
+      },
+      "internal_agent_id": {
+        "type": [
+          "null",
+          "integer"
+        ]
+      },
+      "internal_group_id": {
+        "type": [
+          "null",
+          "integer"
+        ]
+      },
+      "nr_due_by": {
+        "type": [
+          "null",
+          "string"
+        ],
+        "format": "date-time"
+      },
+      "freshcaller_agent": {
+        "type": [
+          "null",
+          "boolean"
+        ]
+      },
+      "freshchat_agent": {
+        "type": [
+          "null",
+          "boolean"
+        ]
+      },
+      "nr_escalated": {
+        "type": [
+          "null",
+          "boolean"
+        ]
       }
   }
 }
