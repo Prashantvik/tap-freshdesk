@@ -34,7 +34,7 @@
         "type": ["null", "number"]
       },
       "agent_availability_status": {
-        "type": ["null", "string"]
+        "type": ["null", "boolean"]
       }
     }
   }
