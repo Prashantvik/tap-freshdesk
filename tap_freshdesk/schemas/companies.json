@@ -20,7 +20,7 @@
         }
       },
       "org_company_id": {
-        "type": ["null", "integer"]
+        "type": ["null", "string"]
       },
       "created_at": {
         "type": ["null", "string"],
