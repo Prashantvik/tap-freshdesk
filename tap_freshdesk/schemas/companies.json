@@ -19,6 +19,9 @@
           "type": ["null", "string"]
         }
       },
+      "org_company_id": {
+        "type": ["null", "integer"]
+      },
       "created_at": {
         "type": ["null", "string"],
         "format": "date-time"
@@ -52,9 +55,6 @@
       },    
       "renewal_date": {
         "type": ["null", "date"]
-      },
-      "org_company_id": {
-        "type": ["null", "integer"]
       }
   }
 }
